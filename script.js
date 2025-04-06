@@ -1,11 +1,9 @@
-const userName = prompt("Please enter your name")
-const userAge = prompt(" Please enter your age ");
-
-console.log(`Name:${userName}`);
-console.log(`Age:${userAge}`);
-if (userAge>= 25 && userAge <=45) {
-    console.log(`User is a working professional`);
-}       
+     var a = 10 
+     var b 
+     function abcd (){
+        console.log(a);
+        
+     }
 
 
 
